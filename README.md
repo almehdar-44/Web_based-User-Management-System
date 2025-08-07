@@ -2,7 +2,7 @@
 
 A simple PHP project that allows users to submit their name and age to a MySQL database and toggle a status field between 0 and 1. Built using HTML, PHP, JavaScript, and MySQL.
 
----
+----
 
  Features
 
